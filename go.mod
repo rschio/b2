@@ -1,6 +1,6 @@
 module b2.upspin.io
 
-go 1.22.3
+go 1.20
 
 require (
 	github.com/kurin/blazer v0.5.3
